@@ -707,7 +707,7 @@ input::-ms-input-placeholder {
 .service .nav-tabs>li>a{
     text-align: center;
     color: #444444;
-    width: 250px;
+    width: 150px;
     height: 180px;
     margin-left:20px;
     background: url(../images/stabmenubg.png) no-repeat top center;
@@ -716,7 +716,7 @@ input::-ms-input-placeholder {
 }
 .service_tabe_menu.nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
     background: url(../images/stabmenubghv.png) no-repeat top center;
-    width:250px;
+    width:150px;
     height: 180px;
     color:#fff;
 
